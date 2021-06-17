@@ -6,15 +6,15 @@ Site testado: http://sampleapp.tricentis.com/101/app.php
 
 #### Tecnologias utilizadas:
 
--**Selenium**
--**Junit**
--**Cucumber**
--**Java**
--**Maven**
+- Selenium
+- Junit
+- Cucumber
+- Java
+- Maven
 
 #### IDE utilizada:
 
-**Eclipse** 
+- Eclipse 
 
 
 ### Pré requisitos para utilizar:
